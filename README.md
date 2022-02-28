@@ -1,2 +1,1 @@
-# BOT-EM-PYTHON
-Um assistente virtual em python
+Só baixa ai 
